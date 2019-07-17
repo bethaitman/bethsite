@@ -8,3 +8,8 @@ summaryLength = 20
 # (Optional, default none) Set leaf bundle to render as side menu
 # When not specified file structure and weights will be used
 BookMenuBundle = '/menu'
+
+# (Optional, default January 2, 2006) Configure the date format used on the pages
+# - In git information
+# - In blog posts
+BookDateFormat = '2 Jan 2006'
