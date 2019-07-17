@@ -1,0 +1,10 @@
+# baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Beth Aitman"
+theme = ["my-theme-edits", "book"]
+summaryLength = 20
+
+[params]
+# (Optional, default none) Set leaf bundle to render as side menu
+# When not specified file structure and weights will be used
+BookMenuBundle = '/menu'
