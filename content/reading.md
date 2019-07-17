@@ -32,7 +32,7 @@ type: docs
 + **Unspeakable Things**, Laurie Penny
 + **Travesties**, Tom Stoppard
 + **The Watchmaker of Filigree Street**, Natasha Pulley
-<br> *One of my favourite non-fiction books this year. Stunning.*
+<br> *One of my favourite fiction books this year. Stunning.*
 + **The Muse**, Jesse Burton
 + **Call Me By Your Name**, André Aciman
 + **A History of the World in 100 Objects**, Neil MacGregor 
@@ -86,7 +86,7 @@ TV:
 <br> *Still beautiful.*
 + **Rules of Civility**, Amor Towles
 + **A Gentleman in Moscow**, Amor Towles
-<br> *I think my favourite fiction book of this year*
+<br> *My favourite fiction book of this year.*
 + **The Lies of Locke Lamora** *(repeat)*
 <br> *Still as good as ever.*
 + **The Flowers of Vashnoi**, Lois McMaster Bujold
