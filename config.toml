@@ -2,7 +2,8 @@
 languageCode = "en-us"
 title = "Beth Aitman"
 theme = ["my-theme-edits", "book"]
-summaryLength = 20
+summaryLength = 15
+paginate = 50
 
 [params]
 # (Optional, default none) Set leaf bundle to render as side menu
