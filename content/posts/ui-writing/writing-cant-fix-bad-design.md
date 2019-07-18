@@ -1,6 +1,7 @@
 ---
 title: "Writing can’t fix bad design"
 date: 2016-08-26
+keywords: "ui-writing"
 ---
 
 This door from a train toilet is a great example of adding lots of information in an attempt to fix bad UI design.
