@@ -1,6 +1,7 @@
 ---
-title: "A bit of news"
+title: "Moving jobs"
 date: 2016-01-29
+tags: "life"
 ---
 
 Sorry for not posting in a while! I’ve been away because it’s been a busy few months. In part because things have changed a bit - I’ve just started a new job working at Ocado Technology (the tech company behind the online retailer). They’ve just created a technical writing team: I’m the latest to join a team of four.

@@ -13,4 +13,4 @@ BookMenuBundle = '/menu'
 # (Optional, default January 2, 2006) Configure the date format used on the pages
 # - In git information
 # - In blog posts
-BookDateFormat = '2 Jan 2006'
+BookDateFormat = 'Jan 2006'
