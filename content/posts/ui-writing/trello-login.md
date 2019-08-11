@@ -7,7 +7,7 @@ date: 2016-06-17
 
 A page for logging in isn’t a complex idea, but often they’re overdone, overcomplicated, or confusing. So I wanted to call out a nice example with decent writing, from [Trello]():
 
-TODO image
+{{< figure src="/images/trello-login.png" alt="The Trello login screen" >}}
 
 Good things here:
 
@@ -19,11 +19,11 @@ Good things here:
 
 I also liked the error message I got when I tried to log in:
 
-TODO image
+{{< figure src="/images/trello-error.png" alt="That account appears to be a Google Account without a password. Try using the Log in with Google button" >}}
 
-For me, it’s a great example along the lines of the Voice & Tone guidelines on errors: it’s calm, serious and straightforward, and offers a next step. It shows you don’t need to be formal, stuffy or alarming in error messages. And actually, I’d argue that a conversational (if serious) tone here is exactly what a user needs in an error case.
+For me, it’s a great example along the lines of the [Voice & Tone guidelines on errors](https://web.archive.org/web/20170606041859/http://voiceandtone.com/failure-message/): it’s calm, serious and straightforward, and offers a next step. It shows you don’t need to be formal, stuffy or alarming in error messages. And actually, I’d argue that a conversational (if serious) tone here is exactly what a user needs in an error case.
 
-I like the contents of the message: the information it gave me about what was wrong guided me towards what I needed to do next, and helped me understand. Not everyone agrees, and it’s true that it goes into possibly unnecessary detail about the implementation of Google account authentication.
+I like the contents of the message: the information it gave me about what was wrong guided me towards what I needed to do next, and helped me understand. [Not everyone agrees](https://twitter.com/th3james/status/742707327720099840), and it’s true that it goes into possibly unnecessary detail about the implementation of Google account authentication.
 
 An alternative, rephrasing the detail so it’s relevant to the user, is “You signed up with a Google Account, so you can’t log in with a password. Try using the Log in with Google button.” 
 
