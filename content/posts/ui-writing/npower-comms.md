@@ -3,18 +3,17 @@ title: "Npower's poor customer communications"
 date: 2016-02-24
 ---
 
-https://uiwriting.tumblr.com/post/139909695879/how-not-to-do-customer-communications
-
-It shouldn’t be a surprise that npower’s customer service is terrible. After all, it consistently gets the lowest customer satisfaction ratings of any UK energy company. 
+It shouldn’t be a surprise that [npower](https://www.npower.com/)’s customer service is terrible. After all, it consistently gets the lowest customer satisfaction ratings of any UK energy company. 
 
 But as I’ve just been on the receiving end of their service, I thought I’d share the experience, because their communication is incredibly poor.
 
-The background
+## The background
+
 My partner and I recently decided to change the bank we use for our joint account. This should be an easy process: all the money in the old account, and the old direct debits, get automatically transferred over to the new one.
 
 Which is why I was just a bit surprised when this appeared in my inbox:
 
-TODO image
+{{< figure src="/images/npower-email.png" alt="Your Direct Debit has been cancelled. We couldn't collect your Direct Debit amount of £xx" class="image-with-border" >}}
 
 ## The confusing, scary email
 
