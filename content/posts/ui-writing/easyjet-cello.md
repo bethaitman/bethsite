@@ -3,11 +3,9 @@ title: "A flight for Mr Seat Cello"
 date: 2015-09-19
 ---
 
-https://uiwriting.tumblr.com/post/129429996954/a-flight-for-mr-seat-cello
-
 This week I came across the hilarious page that is [EasyJet’s policy for carrying musical instruments on board](https://www.easyjet.com/en/terms-and-conditions/music-instruments):
 
-image
+{{< figure src="/images/easyjet-before.png" alt="Easyjet musical instrument policy" class="image-with-border" >}}
 
 ## The problem
 
@@ -23,7 +21,7 @@ Sometimes the stupid is out of your reach, and you won’t be able to change it.
 
 I had a quick go at rewriting it. I added headings (to help users skip to the section that applies to them), simplified the language, and cut it down by about 40% (from 340 words to 195).
 
-image
+{{< figure src="/images/easyjet-after.png" alt="My edit of Easyjet's musical instrument policy" class="image-with-border" >}}
 
 It could still be improved - I’m not sure about a couple of things:
 
@@ -36,3 +34,5 @@ It could still be improved - I’m not sure about a couple of things:
 Writing explanations of stupid things can be really frustrating, because it’s often obvious how the thing could be made less stupid. But it’s a useful exercise in writing clearly in all circumstances.
 
 EasyJet probably won’t make a better system for booking a seat for a cello. So in the meantime, they could at least explain clearly how you’re supposed to bring your instrument on a plane.
+
+<!-- https://uiwriting.tumblr.com/post/129429996954/a-flight-for-mr-seat-cello -->
