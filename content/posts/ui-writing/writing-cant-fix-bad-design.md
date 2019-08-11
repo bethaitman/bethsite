@@ -20,11 +20,12 @@ But even that isn’t enough to explain how to use this door.
 
 ## The design itself communicates poorly
 
-When you push the “Close” button, it’s not obvious that you need to do something else as well in order for the door to lock. (Which is reasonably important in a toilet door.)
+When you push the “Close” button, it’s not obvious that you need to do **something else** as well in order for the door to lock. (Which is reasonably important in a toilet door.)
 
 You can tell this has been a problem - there are three separate places where extra text asks you not to forget to push the “Lock” button. There’s piles of information around this design, trying to help people to use it successfully.
 
-Telling isn’t the right solution
+## Telling isn’t the right solution
+
 The door design fails to make it obvious what its users need to do, and adding signs off to the side doesn’t help. Many won’t notice the signs because it’s not where their attention is at the time - they literally won’t see the text telling them what to do.
 
 What’s needed is a design that guides users towards what they need to do, or even better, does it for them. It needs obvious signalling. Clear communication. Understanding of how people behave, and anticipation of what they’ll do.
