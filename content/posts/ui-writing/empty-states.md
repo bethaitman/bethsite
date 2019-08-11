@@ -15,7 +15,7 @@ In the Fitbit example above, I have no idea why it’s not showing me anything (
 
 If you’re not careful you can end up with this kind of depressing view, with no idea how to get some content in here (thanks [screenshots of despair](https://screenshotsofdespair.tumblr.com/post/142924673164)):
 
-{{< figure src="/images/wayback-empty.png" alt="No activity found. No activity found. No activity found. No activity found." class="image-with-border" >}}
+{{< figure src="/images/wayback-empty.jpg" alt="No activity found. No activity found. No activity found. No activity found." class="image-with-border" >}}
 
 ## Something better
 
