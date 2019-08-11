@@ -3,8 +3,6 @@ title: "Are you sure? How to write a confirmation dialog"
 date: 2016-01-29
 ---
 
-https://uiwriting.tumblr.com/post/138285553789/are-you-sure-how-to-write-a-confirmation-dialog
-
 I came across a few terrible confirmation dialogs/“Are you sure” messages recently, like this one:
 
 {{< figure src="/images/cancel-reservation.png" alt="Are you sure you want to cancel this reservation? No, cancel / Yes, continue" class="image-with-border" >}}
