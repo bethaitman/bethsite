@@ -11,12 +11,6 @@ Because a chatbot’s UI is conversational, people building them want their bots
 
 And that’s a problem for bots. Most of them have a very limited range of what input they can understand, and aren’t very tolerant of variation:
 
-My CNN bot already feels a little bit spammy. Cute emoticons don’t really cut it in this case… pic.twitter.com/9EY7gBwyMQ
-
-— Olivia Solon (@oliviasolon)
-April 13, 2016
-
-
 {{< tweet 720702664552480768 >}}
 
 It turns out the secret is to say “unusubscribe”, but nothing else. That’s a discoverability problem. The great advantage of a graphical (rather than conversational) user interface is that users can see what’s possible. To replicate this with a bot, you would need a list of options - sort of like a call centre. “Press 1 for today’s forecast, 2 for tomorrow’s, or press 3 to unsubscribe.”
@@ -27,12 +21,13 @@ In the CNN example, the bot had an unsubscribe feature - it just didn’t tell u
 
 To try to help, you can:
 
-remind your users that they’re talking to a bot, not a person
-tell your users what the bot can (and can’t) do
-give your users the language you want them to use, to make them more likely to say things your bot can understand
+- remind your users that they’re talking to a bot, not a person
+- tell your users what the bot can (and can’t) do
+- give your users the language you want them to use, to make them more likely to say things your bot can understand
+
 If you’re building a conversational UI, consider: do you want your bot to come across as human? Or do you just want to help your users get stuff done?
 
 Other posts I thought were interesting:
 
-Dan Grover on the limits of conversational UIs
-Amy Thibodeau on other reasons to be careful about adding lots of personality
+- [Dan Grover on the limits of conversational UIs](http://dangrover.com/blog/2016/04/20/bots-wont-replace-apps.html)
+- [Amy Thibodeau on other reasons to be careful about adding lots of personality](https://blog.prototypr.io/how-to-build-and-care-for-your-own-chatty-quirky-funny-interface-robot-5d0be81a0f50#.y5xcqnjev)
