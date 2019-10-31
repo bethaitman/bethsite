@@ -16,8 +16,8 @@ type: docs
 ([video](https://www.youtube.com/watch?v=8TD-20Mb_7M),
 [slides](https://docs.google.com/presentation/d/1r4gLfgPpnT6KFkWn0VEsoIUwiwhVaOYS0CJeSWja0kc/edit?usp=sharing))
 <br>
-[ZuriHac](https://zfoh.ch/zurihac2019/#docs-track), Jun 2019 •
-[Rust Zurich](https://www.meetup.com/Rust-Zurich/events/257893384/), Feb 2019 •
+[ZuriHac](https://zfoh.ch/zurihac2019/#docs-track), Jun 2019 <br>
+[Rust Zurich](https://www.meetup.com/Rust-Zurich/events/257893384/), Feb 2019 <br>
 [HaskellerZ](https://www.meetup.com/HaskellerZ/events/256301621/), Dec 2018
 - **Career progression for tech writers**
 ([slides](https://www.slideshare.net/BethAitman/models-for-personal-growth-career-progression-for-tech-writers))
@@ -46,8 +46,8 @@ type: docs
 - **Writing for user interfaces**
 ([slides](https://www.slideshare.net/BethAitman/writing-for-better-user-interfaces))
 <br>
-Home Office Digital learning lunch, Oct 2018 •
-[Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) learning lunch, Dec 2017 + Aug 2016 •
+Home Office Digital learning lunch, Oct 2018 <br>
+[Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) learning lunch, Dec 2017 + Aug 2016 <br>
 [Cambridge Tech Talks](https://techtalks.event.cam.ac.uk/talks#bethaitman), Nov 2015
 - **Before the docs: writing for user interfaces**
 ([video](https://www.youtube.com/watch?v=LemM9PHDX6w&t=2s),
