@@ -2,6 +2,7 @@
 title: "Curriculum vitae"
 type: docs
 ---
+# CV
 
 ## Jobs
 
@@ -21,8 +22,8 @@ type: docs
 <br> *Oct 2012 - Jan 2016*
 <br> Docs and UX writing for all sorts of SQL Server tools.
 
-If you want to know what I actually did in these jobs,
-that's all on [Linkedin](https://www.linkedin.com/in/bethaitman).
+For details on what I actually did in these jobs,
+see [Linkedin](https://www.linkedin.com/in/bethaitman).
 
 ## Education
 
