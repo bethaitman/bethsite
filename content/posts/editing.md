@@ -53,21 +53,21 @@ This section has a bunch of techniques for making your writing briefer. (See, th
 
 ### Say things directly. Instruct.
 
-eg: "x can be done" or "It is possible to do x" -> "Do x"
-
-eg: "There is a y that can be used to do x" -> "Use y to do x" or, better, "To do x, use y"
-
-This applies to headings too. eg "Custom code generation" -> "Writing a custom code generator"
+Before | After
+--- | ---
+"X can be done" <br> or "It is possible to do X" | "Do X"
+"There is a y that can be used to do X" | "Use Y to do X" <br> or, better, "To do X, use Y"
+This applies to headings too. "Custom code generation" | "Writing a custom code generator"
 
 ### Remove tautologies
 
 A tautology is where you say the same thing twice.
 
-eg: "a short summary" -> "a summary"
-
-eg: "create a new" -> "create a"
-
-eg: "a necessary requirement" -> "a requirement"
+Before | After
+--- | ---
+"a short summary" | "a summary"
+"create a new" | "create a"
+"a necessary requirement" | "a requirement"
 
 ### Avoid saying it's easy or simple
 
@@ -77,7 +77,9 @@ Saying something is simple doesn’t actually provide any value to the user. If 
 
 Often you don't need to explicitly use the future tense, or sometimes past tenses either. The present is pretty good and usually shorter.
 
-eg: "After A has finished, B will start" -> "After A finishes, B starts"
+Before | After
+--- | ---
+"After A has finished, B will start" | "After A finishes, B starts"
 
 ### Front-load sentences
 
@@ -86,7 +88,7 @@ Lead with the most important thing - usually the user goal, or a condition.
 Before | After
 --- | ---
 "You need to do X if Y is the case" | "If Y is the case, do X." (instruct!)
-"You can use a to do b" | "To do b, use a"
+"You can use A to do B" | "To do B, use A"
 
 ### Think about what's obvious from context
 
@@ -98,7 +100,8 @@ eg: "in the code you write" -> "in your code"
 
 ### Find briefer ways to say the same thing
 
-eg "Our belief is that" -> "We believe that"
-
-eg "Few things are more important than x" -> "x is important"
+Before | After
+--- | ---
+"Our belief is that" | "We believe that"
+"Few things are more important than X" | "X is important"
 
