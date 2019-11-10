@@ -49,9 +49,11 @@ type: docs
 Home Office Digital learning lunch, Oct 2018 <br>
 [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) learning lunch, Dec 2017 + Aug 2016 <br>
 [Cambridge Tech Talks](https://techtalks.event.cam.ac.uk/talks#bethaitman), Nov 2015
+- **Real-time database change monitoring**
+<br>
+[Redgate’s SQL in the City](http://sqlinthecity.red-gate.com/), Oct 2015
 - **Before the docs: writing for user interfaces**
 ([video](https://www.youtube.com/watch?v=LemM9PHDX6w&t=2s),
 [slides](https://www.slideshare.net/BethAitman/before-the-docs-writing-for-user-interfaces))
 <br>
 [Write the Docs Prague](https://www.writethedocs.org/conf/eu/2015/speakers/#speaker-baitman), Sep 2015
-- **Real-time database change monitoring** <br> [Redgate’s SQL in the City](http://sqlinthecity.red-gate.com/), Oct 2015
