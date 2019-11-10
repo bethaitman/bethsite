@@ -83,9 +83,10 @@ eg: "After A has finished, B will start" -> "After A finishes, B starts"
 
 Lead with the most important thing - usually the user goal, or a condition.
 
-eg: "You need to do X if Y is the case" -> "If Y is the case, do X." (instruct!)
-
-eg: "You can use a to do b" -> "To do b, use a"
+Before | After
+--- | ---
+"You need to do X if Y is the case" | "If Y is the case, do X." (instruct!)
+"You can use a to do b" | "To do b, use a"
 
 ### Think about what's obvious from context
 
