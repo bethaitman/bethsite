@@ -3,9 +3,9 @@ title: "Microsoft's sign-in page"
 date: 2015-03-17
 ---
 
-This is a Microsoft sign in page. Oh dear.
+This is a Microsoft sign in page. Yeah.
 
-TODO image.
+{{< figure src="/images/microsoft-sign-in.jpg" alt="Call us overprotective, but we need to verify your account again" class="image-with-border" >}}
 
 Microsoft have been trying to [move away from speaking robotically](https://www.cherryleaf.com/2014/09/microsoft-moves-away-from-robot-speak-in-its-user-documentation/), but this is too far in the other direction. It’s all in the “Call us overprotective”: they’re a multi-national company who don’t have a very cool or friendly image. Overprotective is something you’d call your mum.
 

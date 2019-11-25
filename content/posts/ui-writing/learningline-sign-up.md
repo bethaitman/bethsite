@@ -5,7 +5,7 @@ date: 2015-02-17
 
 The sign-up form for LearningLine, an online learning platform.
 
-TODO image
+{{< figure src="/images/ll/create.png" alt="Create a free account at LearningLine" class="image-with-border" >}}
 
 Overall, it’s functional but badly written. Problems:
 
@@ -18,7 +18,7 @@ Overall, it’s functional but badly written. Problems:
 
 Even better, if you don’t enter a name in the Real name field, and then hover over the field, you get this gem: 
 
-TODO image
+{{< figure src="/images/ll/error.png" alt="Real name: first and last name. Enter your first name (required)." class="image-with-border" >}}
 
 a) that’s a really undiscoverable way of giving error information. b) which is it supposed to be? First name? Full name? What?
 

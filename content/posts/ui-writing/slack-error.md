@@ -5,7 +5,7 @@ date: 2015-04-22
 
 Another from Slack, but this I’m less impressed by. Main issue? It’s way too long, and it doesn’t point out the solution very clearly.
 
-TODO image
+{{< figure src="/images/slack/error.png" alt="Connection trouble. Apologies, we're having some trouble with your web socket connection. We tried falling back to Flash, but it appears you do not have a version of Flash installed that we can use. But we've seen this problem clear up with a restart of your browser, a solution which we suggest to you now only with great regret and self loathing." class="image-with-border" >}}
 
 ## The problems
 

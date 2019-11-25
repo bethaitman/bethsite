@@ -3,7 +3,9 @@ title: "Slack's search"
 date: 2015-03-20
 ---
 
-TODO image
+{{< figure src="/images/slack/search-small.jpg" alt="Assisted Search. Narrow your search with before, from, or in. Or press the plus key + to see more modifiers." class="image-with-border" >}}
+
+{{< figure src="/images/slack/search-expand.jpg" alt="Select a modifier" class="image-with-border" >}}
 
 One of my co-workers has been using Slack to collaborate with her team, and she loves it, so she sent me some screenshots of the search dialogue.
 

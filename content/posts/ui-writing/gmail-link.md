@@ -5,7 +5,7 @@ date: 2015-03-17
 
 If you add a link in Gmail, you get this dialog:
 
-TODO image
+{{< figure src="/images/gmail/before.png" alt="To which URL should this link refer?" class="image-with-border" >}}
 
 It’s odd, because in general Gmail’s nicely done and pretty pared-back. I wonder if they've forgotten this existed.
 
@@ -19,11 +19,11 @@ As for the help text at the bottom: who decides to add a link without knowing wh
 
 It’s not clear when you’d want to test a link, either.
 
-## he fix
+## The fix
 
 Basically delete everything that’s not totally necessary. Something like this:
 
-TODO image
+{{< figure src="/images/gmail/after.png" alt="Edit link" class="image-with-border" >}}
 
 It’s straightfoward, a little stark, but who wants to linger on a link dialog?
 

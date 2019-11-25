@@ -5,7 +5,7 @@ date: 2015-03-13
 
 Google Drive’s 502 error page.
 
-TODO image
+{{< figure src="/images/drive/error.png" alt="502. That's an error." class="image-with-border" >}}
 
 It’s nicely done. Gives the technical information - the error code - and points out it’s an error code for the non-technical users, but not in a patronising way.
 

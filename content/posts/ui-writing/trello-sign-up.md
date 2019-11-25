@@ -5,7 +5,7 @@ date: 2015-03-19
 
 Trello’s sign up page.
 
-TODO image
+{{< figure src="/images/trello/create.png" alt="Create a Trello Account" class="image-with-border" >}}
 
 Lovely and simple - no extra help needed here, because the fields are so standard. The placeholder text gives you a hint if you need it.
 
@@ -13,7 +13,7 @@ What makes it special? That placeholder text. Among others, you can get Ender Wi
 
 The only thing that’s a shame is the error messages aren’t so smooth:
 
-TODO image
+{{< figure src="/images/trello/create-error.png" alt="Invalid name" class="image-with-border" >}}
 
 The error isn’t next to the field, and it’s not particularly nice (the name field was empty, so they could easily have given a smarter message). It’s a little robotic too.
 

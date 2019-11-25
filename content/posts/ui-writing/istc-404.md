@@ -5,7 +5,7 @@ date: 2015-03-05
 
 This is the 404 page on the ISTC website, Yes, they’re a technical writing organisation.
 
-TODO image
+{{< figure src="/images/istc/before.png" alt="Error 404 - Page Not Found. Sorry, something has gone awry! We realise this might be a stressful event, so here is a picture of some lovely kittens to help you through this traumatic time." class="image-with-border" >}}
 
 ## What’s wrong here
 
@@ -24,7 +24,7 @@ This kind of thing makes it a mish-mash of formal and informal. The kittens are 
 
 Here’s a two-minute stab at the same content, rewritten. I think it’s an improvement:
 
-TODO image
+{{< figure src="/images/istc/after.png" alt="Error 404 - Page Not Found. Sorry, we couldn't find that page." class="image-with-border" >}}
 
 Not super-duper friendly, but it’s relaxed enough. “Check you entered the URL correctly” is a little blunt. And I couldn’t work out how to get the kittens in without it seeming really awkward :(
 
