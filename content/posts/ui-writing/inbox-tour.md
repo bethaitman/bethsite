@@ -3,7 +3,13 @@ title: "Gmail Inbox's tour"
 date: 2015-05-29
 ---
 
-TODO images
+{{< figure src="/images/inbox/1-start.png" alt="Inbox by Gmail. The inbox that works for you" class="image-with-border" >}}
+
+{{< figure src="/images/inbox/2-bundle.png" alt="Inbox bundles up clutter and gets it out of your way" class="image-with-border" >}}
+
+{{< figure src="/images/inbox/3-remind.png" alt="Add reminders to the top of your inbox." class="image-with-border" >}}
+
+{{< figure src="/images/inbox/update.png" alt="Updates includes notifications from online accounts, such as alerts and confirmations. It's bundled in your inbox." class="image-with-border" >}}
 
 I’m trying out Inbox by Gmail, and I like the simplicity of it so far. The popups are a nice use of example content to make the the introduction to the UI make much more sense.
 
