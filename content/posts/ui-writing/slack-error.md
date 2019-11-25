@@ -19,7 +19,7 @@ The stuff about Flash? Just not necessary. That’s a developer-written message 
 
 So yeah, it could be shorter and simpler, and it doesn’t have to become robotic in the process.
 
-The fix
+## The fix
 
 “Sorry - we’re having trouble with your web socket connection. Try restarting your browser.” Could add “We know it’s a pain, but” if you really want to be more chatty.
 

@@ -69,7 +69,7 @@ Btw, I don’t think Slack are being inconsistent here - they’re using “Crea
 
 **Twitter**: log in and sign up
 
-image
+{{< figure src="/images/log-in/twitter.png" class="image-with-border" >}}
 
 ## Where does this leave us?
 
