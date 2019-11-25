@@ -2,7 +2,7 @@
 headless: true
 ---
 
-- [**Home**]({{< relref "/index" >}})
+- [**Home**]({{< relref "/" >}})
 - [**CV**]({{< relref "/cv" >}})
 - [**Speaking**]({{< relref "/talks" >}})
 - [**Writing**]({{< relref "/posts" >}})
