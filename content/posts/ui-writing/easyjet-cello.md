@@ -5,7 +5,7 @@ date: 2015-09-19
 
 This week I came across the hilarious page that is [EasyJet’s policy for carrying musical instruments on board](https://www.easyjet.com/en/terms-and-conditions/music-instruments):
 
-{{< figure src="/images/easyjet-before.png" alt="Easyjet musical instrument policy" class="image-with-border" >}}
+{{< figure src="/images/easyjet/before.png" alt="Easyjet musical instrument policy" class="image-with-border" >}}
 
 ## The problem
 
@@ -21,7 +21,7 @@ Sometimes the stupid is out of your reach, and you won’t be able to change it.
 
 I had a quick go at rewriting it. I added headings (to help users skip to the section that applies to them), simplified the language, and cut it down by about 40% (from 340 words to 195).
 
-{{< figure src="/images/easyjet-after.png" alt="My edit of Easyjet's musical instrument policy" class="image-with-border" >}}
+{{< figure src="/images/easyjet/after.png" alt="My edit of Easyjet's musical instrument policy" class="image-with-border" >}}
 
 It could still be improved - I’m not sure about a couple of things:
 

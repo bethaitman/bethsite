@@ -27,7 +27,7 @@ Because people speak like this:
 
 Not like this:
 
-{{< figure src="/images/form-resubmission.png" alt="Confirm form resubmission" class="image-with-border" >}}
+{{< figure src="/images/confirm/form-resubmission.png" alt="Confirm form resubmission" class="image-with-border" >}}
 
 Once you’ve got the meaning right, you can start cutting it down to the right size. Or if you need to, you can put your sentence into the UI, as embedded help.
 

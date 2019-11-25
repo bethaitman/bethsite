@@ -23,46 +23,47 @@ Often, making the right choice comes down to picking what people are used to. So
 
 **Amazon**: sign in and create account/register
 
-image
+{{< figure src="/images/log-in/amazon.png" class="image-with-border" >}}
 
 **Apple**: sign in and create account (well, Apple ID)
 
-image
+{{< figure src="/images/log-in/apple.png" class="image-with-border" >}}
 
 **Basecamp**: log in and start a trial
 
-image
+{{< figure src="/images/log-in/basecamp.png" class="image-with-border" >}}
+
 **Ebay**: sign in and register
 
-image
+{{< figure src="/images/log-in/ebay.png" class="image-with-border" >}}
 
 **Facebook**: log in and create account
 
-image
+{{< figure src="/images/log-in/facebook.png" class="image-with-border" >}}
 
 **GitHub**: sign in and sign up
 
-image
+{{< figure src="/images/log-in/github.png" class="image-with-border" >}}
 
 **Google**: sign in and create account
 
-image
+{{< figure src="/images/log-in/google.png" class="image-with-border" >}}
 
 **Mailchimp**: log in and sign up
 
-image
+{{< figure src="/images/log-in/mailchimp.png" class="image-with-border" >}}
 
 **My Atlassian**: log in and sign up 
 
-image
+{{< figure src="/images/log-in/atlassian.png" class="image-with-border" >}}
 
 **Office**: sign in (although they use ‘login’ in the URL, consistency fail) and sign up
 
-image
+{{< figure src="/images/log-in/office.png" class="image-with-border" >}}
 
 **Slack**: sign in and create an account/sign up 
 
-image
+{{< figure src="/images/log-in/slack.png" class="image-with-border" >}}
 
 Btw, I don’t think Slack are being inconsistent here - they’re using “Create an account” and “Sign” up to mean two different things. 
 

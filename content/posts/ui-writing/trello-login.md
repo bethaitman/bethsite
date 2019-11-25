@@ -7,7 +7,7 @@ date: 2016-06-17
 
 A page for logging in isn’t a complex idea, but often they’re overdone, overcomplicated, or confusing. So I wanted to call out a nice example with decent writing, from [Trello](https://trello.com/en):
 
-{{< figure src="/images/trello-login.png" alt="The Trello login screen" class="image-with-border" >}}
+{{< figure src="/images/trello/login.png" alt="The Trello login screen" class="image-with-border" >}}
 
 Good things here:
 
@@ -19,7 +19,7 @@ Good things here:
 
 I also liked the error message I got when I tried to log in:
 
-{{< figure src="/images/trello-error.png" alt="That account appears to be a Google Account without a password. Try using the Log in with Google button" class="image-with-border" >}}
+{{< figure src="/images/trello/error.png" alt="That account appears to be a Google Account without a password. Try using the Log in with Google button" class="image-with-border" >}}
 
 For me, it’s a great example along the lines of the [Voice & Tone guidelines on errors](https://web.archive.org/web/20170606041859/http://voiceandtone.com/failure-message/): it’s calm, serious and straightforward, and offers a next step. It shows you don’t need to be formal, stuffy or alarming in error messages. And actually, I’d argue that a conversational (if serious) tone here is exactly what a user needs in an error case.
 

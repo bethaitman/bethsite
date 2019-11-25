@@ -5,7 +5,7 @@ date: 2016-01-29
 
 I came across a few terrible confirmation dialogs/“Are you sure” messages recently, like this one:
 
-{{< figure src="/images/cancel-reservation.png" alt="Are you sure you want to cancel this reservation? No, cancel / Yes, continue" class="image-with-border" >}}
+{{< figure src="/images/confirm/cancel-reservation.png" alt="Are you sure you want to cancel this reservation? No, cancel / Yes, continue" class="image-with-border" >}}
 
 As they’re so common, I thought I’d go through some examples, and discuss what works and what doesn’t. 
 
@@ -15,11 +15,11 @@ Confirmation dialogs can be useful, in situations when a user chooses to do some
 
 Be sparing with confirmation dialogs, because they’re only used when you think that **the user didn’t really want to do what they just told you they wanted to do**. If they did want to do it, and they can easily undo it, a confirmation is just irritating.
 
-{{< figure src="/images/are-you-sure.png" alt="Are you sure? Yes / No " class="image-with-border" >}}
+{{< figure src="/images/confirm/are-you-sure.png" alt="Are you sure? Yes / No " class="image-with-border" >}}
 
 A better alternative is the option to **undo an action**, allowing a user to easily change their mind. Undoing means you don’t need to second-guess whether your users wanted to do a thing or not. Google apps do this pretty well, even letting you change your mind about sending an email:
 
-{{< figure src="/images/undo-send.jpg" alt="Undo send dialog in Gmail" class="image-with-border" >}}
+{{< figure src="/images/confirm/undo-send.jpg" alt="Undo send dialog in Gmail" class="image-with-border" >}}
 
 But in some cases - particularly for irreversible and damaging actions - they can still be useful. So how do you write one?
 
@@ -27,7 +27,7 @@ But in some cases - particularly for irreversible and damaging actions - they ca
 
 Here’s an example of a classic confirmation dialog. The user opted to do something potentially damaging, so it checks that they definitely want to:
 
-{{< figure src="/images/windows-confirm.png" alt="Are you sure you want to move this file to the Recycle Bin? Yes / No " class="image-with-border" >}}
+{{< figure src="/images/confirm/windows-confirm.png" alt="Are you sure you want to move this file to the Recycle Bin? Yes / No " class="image-with-border" >}}
 
 However, the action here isn’t actually that damaging. It’s not irreversible, like deleting something permanently, as it’s easily fixed by undoing. A confirmation dialog isn’t really needed here.
 
@@ -35,7 +35,7 @@ The wording, “Are you sure you want to do the thing?”, can be cut down. “D
 
 The button options are Yes/No, but using these can make it harder for users to make a decision. They might have to read closely to understand what they’re choosing, like here:
 
-{{< figure src="/images/windows-confirm-long.jpg" alt="Long paragraph of text, followed by Yes / No " class="image-with-border" >}}
+{{< figure src="/images/confirm/windows-confirm-long.jpg" alt="Long paragraph of text, followed by Yes / No " class="image-with-border" >}}
 
 (To be fair, that dialog has bigger problems. The reason it’s unclear is not just that it’s a wall of text, but also that the question doesn’t have a Yes/No answer - it’s “Do you want this thing or that thing?”.)
 
@@ -51,7 +51,7 @@ The best time to use a confirmation dialog is when the user might not know their
 
 If you don’t make it clear, it’s very difficult to make a decision. Take this example:
 
-{{< figure src="/images/form-resubmission.png" alt="Confirm Form Resubmission? Continue / Cancel " class="image-with-border" >}}
+{{< figure src="/images/confirm/form-resubmission.png" alt="Confirm Form Resubmission? Continue / Cancel " class="image-with-border" >}}
 
 It’s phrased so that it’s not clear what will happen when you choose either of the options. As a user, you don’t know what you should do. 
 
@@ -69,11 +69,11 @@ But if users read nothing else, they’ll look at the buttons. So instead, focus
 
 Using Continue/Cancel or Continue/Close is a good pattern for this. You can also go for “Do the thing”/Cancel, as per Google’s [Material Design guidelines](https://material.io/design/components/dialogs.html#dialogs-alerts):
 
-{{< figure src="/images/material-confirm.png" alt="Permanently delete 82 photos and videos from this device? They will remain safely backed up in Google Photos. Cancel / Delete copies " class="image-with-border" >}}
+{{< figure src="/images/confirm/material-confirm.png" alt="Permanently delete 82 photos and videos from this device? They will remain safely backed up in Google Photos. Cancel / Delete copies " class="image-with-border" >}}
 
 For particularly dangerous actions, you can use the button text to make them hesitate, heavily implying which one the user should choose:
 
-{{< figure src="/images/uninstall-anyway.png" alt="Do you want to uninstall the Setup Support Files? Uninstall anyway / Cancel " class="image-with-border" >}}
+{{< figure src="/images/confirm/uninstall-anyway.png" alt="Do you want to uninstall the Setup Support Files? Uninstall anyway / Cancel " class="image-with-border" >}}
 
 ## Cancel cancelling?
 

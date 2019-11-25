@@ -9,7 +9,7 @@ And the forms are often deliberately designed to make it hard to work out whethe
 
 Here’s a particularly confusing example, from Royal Mail.
 
-{{< figure src="/images/rm-before.png" alt="Royal Mail's opt in/out page" class="image-with-border" >}}
+{{< figure src="/images/royal-mail/before.png" alt="Royal Mail's opt in/out page" class="image-with-border" >}}
 
 ## The problem
 
@@ -53,7 +53,7 @@ Can we contact you by:
 
 Eg:
 
-{{< figure src="/images/rm-after.png" alt="Royal Mail's opt in/out page, with edits" class="image-with-border" >}}
+{{< figure src="/images/royal-mail/after.png" alt="Royal Mail's opt in/out page, with edits" class="image-with-border" >}}
 
 ## A caveat
 

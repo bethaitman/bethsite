@@ -7,7 +7,7 @@ We’ve talked 404 pages before - let’s look at some more! These examples are 
 
 ## Hilary Clinton’s 404 page
 
-{{< figure src="/images/404-hil.png" alt="Oops, that link wasn't what it was quacked up to be" class="image-with-border" >}}
+{{< figure src="/images/404/hil.png" alt="Oops, that link wasn't what it was quacked up to be" class="image-with-border" >}}
 
 It’s short, it’s funny (but not trying too hard), and it’s reasonably clear it’s a 404 page. It could be more helpful by giving you a search box. 
 
@@ -17,19 +17,19 @@ But I think you probably are in the middle of a task - trying to find the page y
 
 ## A Conservative 404
 
-{{< figure src="/images/404-con.png" alt="Sorry, we couldn't find the page you were looking for" class="image-with-border" >}}
+{{< figure src="/images/404/con.png" alt="Sorry, we couldn't find the page you were looking for" class="image-with-border" >}}
 
 They’re trying to do the same thing as Hilary - catch you while you’re not doing anything. But their attempt is to give you some tailored advertising instead.
 
 Here’s a bit more detail if you can’t read it:
 
-{{< figure src="/images/404-con-zoom.png" alt="Sorry, we couldn't find the page you were looking for" class="image-with-border" >}}
+{{< figure src="/images/404/con-zoom.png" alt="Sorry, we couldn't find the page you were looking for" class="image-with-border" >}}
 
 The problem is, because there’s so much content on this page, it’s not very obvious it’s a 404 page. I’d think that people would get confused by the form, as it wasn’t what they were looking for.
 
 ## Labour’s version
 
-{{< figure src="/images/404-lab.png" alt="A 404 erris is still better than five more years of Tory government" class="image-with-border" >}}
+{{< figure src="/images/404/lab.png" alt="A 404 erris is still better than five more years of Tory government" class="image-with-border" >}}
 
 This is a more obvious 404. And they’ve made a reasonable joke - predictable, but at least it’s not trying too hard.
 
@@ -39,7 +39,7 @@ A link to the homepage is reasonable. Not sure how much help the second link is 
 
 ## The Lib Dems
 
-{{< figure src="/images/404-lib.png" alt="Just like David Cameron's third term, this page does not exist" class="image-with-border" >}}
+{{< figure src="/images/404/lib.png" alt="Just like David Cameron's third term, this page does not exist" class="image-with-border" >}}
 
 The poor old Lib Dems. They did get trounced. But at least they won the 404 page competition. This is another a not-too-terrible joke, that still makes it clear it’s a 404, and a sensible place to send people.
 
@@ -47,7 +47,7 @@ The poor old Lib Dems. They did get trounced. But at least they won the 404 page
 
 ## A poor showing from the Greens
 
-{{< figure src="/images/404-green.png" alt="404 - page not found" class="image-with-border" >}}
+{{< figure src="/images/404/green.png" alt="404 - page not found" class="image-with-border" >}}
 
 To finish it off, a page that’s making no effort at all. They’ve not even kept the navigation/header from the rest of their site - which, come on, isn’t hard.
 
