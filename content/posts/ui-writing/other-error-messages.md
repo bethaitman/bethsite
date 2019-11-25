@@ -9,23 +9,23 @@ The first iteration of the feature sent you a confirmation message when you set 
 
 So when we got more time to work on it, we added a **Send test email** feature:
 
-TODO image
+{{< figure src="/images/other-errors/send-test.jpg" class="image-with-border" >}}
 
 When the test email didn’t come through, we displayed an error, which came from the SMTP server:
 
-TODO image
+{{< figure src="/images/other-errors/smtp-error.jpg" class="image-with-border" >}}
 
 This helped people a bit - they could see when their email settings weren’t right. But the messages we got from the sever ranged from the helpful to the completely cryptic.  So I decided to see if I could improve them.
 
 We collected data on the errors people were hitting, and found that there were about 20 reasonably common ones. I went through the 20, found out what they meant, and worked out a human-readable version. Crucially, I included a suggestion for what you needed to do to fix the error:
 
-TODO image
+{{< figure src="/images/other-errors/clarify.jpg" class="image-with-border" >}}
 
 These were much better, and helped a bunch of people set up email notifications - a lot of them had made a mistake entering their details, or weren’t using a secure connection when they needed to.
 
 Still not great though. Can you guess what the problem was?
 
-TODO image
+{{< figure src="/images/other-errors/email.jpg" class="image-with-border" >}}
 
 Frankly, the messages are just too long. This customer (and probably others) hadn’t spotted my little explanation of what he needed to do, because it was in a wall of text.
 

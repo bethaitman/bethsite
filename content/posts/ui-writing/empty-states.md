@@ -29,7 +29,7 @@ WhatsApp goes one better, with clearer instructions on finding that button:
 
 Even better, don’t make users go hunting for a button somewhere else - make them part of your empty state (via [emptystat.es](https://emptystat.es/post/135639881094/no-pinned-groups-in-facebook-for-android)):
 
-{{< figure src="/images/empty-states/group.png" alt="New group" class="image-with-border" >}}
+{{< figure src="/images/empty-states/group.jpg" alt="New group" class="image-with-border" >}}
 
 In short:
 

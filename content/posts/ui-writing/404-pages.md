@@ -17,13 +17,13 @@ But I think you probably are in the middle of a task - trying to find the page y
 
 ## A Conservative 404
 
-{{< figure src="/images/404/con.png" alt="Sorry, we couldn't find the page you were looking for" class="image-with-border" >}}
+{{< figure src="/images/404/404-con.png" alt="Sorry, we couldn't find the page you were looking for" class="image-with-border" >}}
 
 They’re trying to do the same thing as Hilary - catch you while you’re not doing anything. But their attempt is to give you some tailored advertising instead.
 
 Here’s a bit more detail if you can’t read it:
 
-{{< figure src="/images/404/con-zoom.png" alt="Sorry, we couldn't find the page you were looking for" class="image-with-border" >}}
+{{< figure src="/images/404/con-zoom.jpg" alt="Sorry, we couldn't find the page you were looking for" class="image-with-border" >}}
 
 The problem is, because there’s so much content on this page, it’s not very obvious it’s a 404 page. I’d think that people would get confused by the form, as it wasn’t what they were looking for.
 

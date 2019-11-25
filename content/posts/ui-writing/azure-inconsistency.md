@@ -5,7 +5,15 @@ date: 2015-08-18
 
 Some UI writing from Microsoft’s Azure platform:
 
-TODO images
+{{< figure src="/images/azure/1.png" alt="You have no Traffic Manager profiles. Create one to get started!" class="image-with-border" >}}
+
+{{< figure src="/images/azure/2.png" alt="You have no vaults. Create one to get started." class="image-with-border" >}}
+
+{{< figure src="/images/azure/3.png" alt="No job collections have been created. To get started, click create." class="image-with-border" >}}
+
+{{< figure src="/images/azure/4.png" alt="You have no BizTalk Services. To get started, create one!" class="image-with-border" >}}
+
+{{< figure src="/images/azure/5.png" alt="You have no namespaces. Add one to get started!" class="image-with-border" >}}
 
 ## The problem
 

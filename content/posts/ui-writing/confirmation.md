@@ -79,7 +79,7 @@ For particularly dangerous actions, you can use the button text to make them hes
 
 Of course, that wording can backfire - when the action itself is cancellation:
 
-{{< figure src="/images/halifax-cancel.jpg" alt="Are you sure you want to cancel the Pay a Contact Registration process? Continue / Cancel " class="image-with-border" >}}
+{{< figure src="/images/confirm/halifax-cancel.jpg" alt="Are you sure you want to cancel the Pay a Contact Registration process? Continue / Cancel " class="image-with-border" >}}
 
 In this case, there are a few better options:
 

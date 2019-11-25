@@ -31,7 +31,7 @@ I’d complain about the unnecessary capitalisation on “Me”, but I just chec
 
 (I also like the copy on the button. “Got it” is exactly the right response here - “yep, I’ve understood what you told me, don’t need to see this any more”.)
 
-{{< figure src="/images/drive/after.png" alt="Google Drive left-hand menu" class="image-with-border" >}}
+{{< figure src="/images/drive/after.jpg" alt="Google Drive left-hand menu" class="image-with-border" >}}
 
 One final point - notice that UK localisation it’s done for me, from Trash to Bin. It’s not essential, but it’s a nice touch. 
 
