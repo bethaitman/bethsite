@@ -6,10 +6,10 @@ type: docs
 
 ## Jobs
 
-* **Senior technical writer | Google, Zurich**
+* **Senior technical writer | Google, Zürich**
 <br> *Aug 2019 - now*
 <br> Helping Site Reliability Engineers get stuff done.
-* **Technical writing and documentation lead | Digital Asset, Zurich**
+* **Technical writing and documentation lead | Digital Asset, Zürich**
 <br>*Sep 2018 - Jul 2019*
 <br> Working out how to teach people Haskell.
 * **Lead technical writer | Improbable, London**
