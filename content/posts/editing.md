@@ -3,9 +3,9 @@ title: "Editing"
 date: 2019-11-10
 ---
 
-This is just me jotting down some things I look for when I'm editing. A bunch of ways to make your writing more readable - and I'm usually thinking about technical documentation, but this can apply to emails and other stuff too.
+I wanted to write about some of the things I look for when I'm editing. There are a bunch of simple ways to make your writing more readable - and I'm usually thinking about technical documentation, but this can apply to emails and other stuff too.
 
-I'm a bit less concerned with grammatical correctness. Glaring errors are distracting, but overall good communication is far more important than perfect writing. Once the information content is right, this post should help you make sure it's presented clearly and concisely.
+These things are about being clear, and I'm a bit less concerned with grammatical correctness. Glaring errors are distracting, but overall good communication is far more important than perfect writing. Once the information content is right, this post should help you make sure it's presented clearly and concisely.
 
 Everything in this post is a guideline, not a rule: "Break any of these sooner than say anything outright barbarous." That is to say: use your common sense.
 
@@ -35,7 +35,7 @@ I tend to err on the side of pretty short paragraphs. If you have just one main 
 
 ### Sentences shorter than ~25 words
 
-Another one I got from GOV.UK. Sentences longer than about 25 words tend to be harder to take in. Sometimes you need a long sentence for a good reason; but usually you should see if you can split it up.
+Another one I learnt from the GOV.UK team. Sentences longer than about 25 words tend to be harder to take in. Sometimes you need a long sentence for a good reason; but usually you should see if you can split it up.
 
 ### Link to relevant context
 
@@ -43,7 +43,7 @@ Rather than re-explaining everything everywhere.
 
 ### Use WIIFM
 
-"What's in it for me?" ie your reader. Why should they read this page, this paragraph? How will the information be useful to them? If you tell them explicitly, much easier for them.
+"What's in it for me?" ie your reader. Why should they read this page, this paragraph? How will the information be useful to them? If you tell them explicitly, much easier for them. (From [this talk](https://www.youtube.com/watch?v=IMdyx4YJ0hQ) by the inimitable Kelly O'Brien.)
 
 ## Writing concisely
 
@@ -56,7 +56,7 @@ This section has a bunch of techniques for making your writing briefer. (See, th
 Before | After
 --- | ---
 "X can be done" <br> or "It is possible to do X" | "Do X"
-"There is a y that can be used to do X" | "Use Y to do X" <br> or, better, "To do X, use Y"
+"There is a Y that can be used to do X" | "Use Y to do X" <br> or, better, "To do X, use Y"
 This applies to headings too. "Custom code generation" | "Writing a custom code generator"
 
 ### Remove tautologies
@@ -94,7 +94,7 @@ Before | After
 
 eg: Question talking about time. Do you need to say something is "currently" the case? Usually that only matters if you're emphasising that it'll change soon.
 
-eg: I think that... It's your document, of course it's what you think. Just say the thing.
+eg: "I think that..." It's your document, of course it's what you think. Just say the thing.
 
 eg: "in the code you write" -> "in your code"
 
