@@ -7,11 +7,12 @@ type: docs
 
 ## Upcoming talks
 
-- **Writing effective documentation**
-<br> [The Lead Developer Berlin](https://berlin2019.theleaddeveloper.com/talks#beth-aitman), Dec 2019
+None planned.
 
 ## Past talks
 
+- **Writing effective documentation** ([video](https://www.youtube.com/watch?v=R6zeikbTgVc))
+<br> [The Lead Developer Berlin](https://berlin2019.theleaddeveloper.com/talks#beth-aitman), Dec 2019
 - **A practical guide to writing good documentation**
 ([video](https://www.youtube.com/watch?v=8TD-20Mb_7M),
 [slides](https://docs.google.com/presentation/d/1r4gLfgPpnT6KFkWn0VEsoIUwiwhVaOYS0CJeSWja0kc/edit?usp=sharing))
