@@ -1,7 +1,7 @@
 ---
 title: "A beginner's guide to cryptic crosswords"
 date: 2019-12-09
-status: "draft"
+draft: "true"
 ---
 
 In my first job out of university, a little group used to gather in the office atrium at 5pm - almost every day without fail - to solve the Guardian cryptic crossword. I think when I started it was just those titans of crossword-solving, Brian Harris and Charles Brown; with Chris Lambrou a later guest star, making us the BBCC crossword club (Brian, Beth, Charles, and Chris). Plus occasionally Jason for comic relief.
