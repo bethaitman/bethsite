@@ -7,7 +7,7 @@ About the same time I was starting out as a tech writer, the [Government Digital
 
 I was working in a very different domain, but their ideas and processes resonated with me hugely. A lot of the core principles that I work by came from GDS - from their style guides, their service patterns, their blog posts. I come back to the stuff they've shared over and over again. It articulates so well the basic principles of technical writing, and somehow cuts through so much nonsense. They have a gift for slogans as well - I wish I knew how to write those.
 
-So I've collected a few favourite bits of their work to share here. They're talking about writing on behalf of government, but the ideas apply a lot of the time to the writing I do regardless.
+So I've collected a few favourite bits of their work to share here. They're talking about writing on behalf of government, but I think the ideas apply really to any writing, if you care about it working well for your readers.
 
 ## On designing content
 
@@ -79,7 +79,7 @@ The [government design tumblr](https://govdesign.tumblr.com/) has some great slo
 
 ## Giles Turnbull on writing
 
-I love the way Giles writes. This stuff isn't from the GDS blogs, but as far as I can tell he was one of the masterminds behind the GDS voice, so I think it still counts.
+I love the way Giles writes. This stuff isn't from the GDS blogs, but I think it still fits in here.
 
 [Use the words normal people would use](https://gilest.org/2015/normal-words/):
 
