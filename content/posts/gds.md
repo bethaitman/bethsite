@@ -3,7 +3,7 @@ title: "Some of my favourite things from the Government Digital Service"
 date: 2020-03-15
 ---
 
-About the same time I was starting out as a tech writer, the [Government Digital Service](https://gds.blog.gov.uk/about/) was working on overhauling the UK government's web presence. And they were doing it in the open, sharing what they were trying and what they'd learnt, blogging about their principles. I found their work inspiring - laser-focused on meeting the needs of citizens, on being clear and human-centered.
+About the same time I was starting out as a tech writer, I heard of the [Government Digital Service](https://gds.blog.gov.uk/about/) for the first time. They were totally overhauling the UK government's web presence, and they were doing it in the open: sharing what they were trying and what they'd learnt, blogging about their principles. I found their work inspiring - laser-focused on meeting the needs of citizens, on being clear and human-centered.
 
 I was working in a very different domain, but their ideas and processes resonated with me hugely. A lot of the core principles that I work by came from GDS - from their style guides, their service patterns, their blog posts. I come back to the stuff they've shared over and over again. It articulates so well the basic principles of technical writing, and somehow cuts through so much nonsense. They have a gift for slogans as well - I wish I knew how to write those.
 
