@@ -64,7 +64,7 @@ On talking about future state:
 
 ## Principles and slogans
 
-A huge strength of GDS is expressing ideas in clear, powerful slogans. I love the [Government Design Principles](https://www.gov.uk/guidance/government-design-principles) (and the [poster versions](https://govdesign.tumblr.com/post/144094499973/posters-for-the-first-iteration-of-gds-design)):
+A huge strength of GDS is expressing ideas in clear, powerful slogans. I love the [Government Design Principles](https://www.gov.uk/guidance/government-design-principles) (and the [poster versions](https://govdesign.tumblr.com/post/144094499973/posters-for-the-first-iteration-of-gds-design)) - my favourite is **Do the hard work to make it simple**:
 
 > Making something look simple is easy. Making something simple to use is much harder - especially when the underlying systems are complex - but that’s what we should be doing. Don’t take “It’s always been that way” for an answer. It’s usually more and harder work to make things simple, but it’s the right thing to do.
 
@@ -97,13 +97,13 @@ I love the way Giles writes. This stuff isn't from the GDS blogs, but as far as 
 
 > Say what you mean. Don’t be vague. Don’t expect people to read between the lines. Don’t assume they know as much about a particular situation as you do. Don’t leave any room for ambiguity.
 
-[Don’t say you’re a “thought leader”](https://gilest.org/2017/thought-leadership/) - just show you can think. 
+[Don’t say you’re a “thought leader” - just show you can think](https://gilest.org/2017/thought-leadership/). 
 
-[Turn question slides into statement slides](https://gilest.org/2019/question-slides/) and more good advice on [doing presentations](http://www.doingpresentations.com/). 
+[Turn question slides into statement slides](https://gilest.org/2019/question-slides/), and more good advice on [doing presentations](http://www.doingpresentations.com/). 
 
 ## Bits from the blog
 
-A selection of nice posts from the extensive blog archives:
+A random selection of nice posts:
 
 * "However, there is a limit to content designers' powers: They can't explain something that didn't make sense in the first place" - [Services that are simple to explain](http://designnotes.blog.gov.uk/2016/05/03/services-simple-to-explain)
 * "It's our job as content designers to get out of the way of people completing what they came to do. One of the things we learnt on the citizen beta of GOV.UK is that this is harder than it sounds. A refrain heard daily was 'do you actually need to know that at this point?'" - [If content is king](http://gds.blog.gov.uk/2012/05/31/if-content-is-king-who-rules-our-land)
@@ -113,7 +113,7 @@ A selection of nice posts from the extensive blog archives:
 * Several examples of changing your mind after experimentation and research: [Rethinking related links](http://designnotes.blog.gov.uk/2014/02/12/rethinking-related-links), [One thing per page](https://designnotes.blog.gov.uk/2015/07/03/one-thing-per-page/), and [Removing the external link icon](https://designnotes.blog.gov.uk/2016/11/28/removing-the-external-link-icon-from-gov-uk/).
 * [Editorial review process](https://insidegovuk.blog.gov.uk/2013/07/31/editorial-reviews-and-mainstream-content/)
 * [Finding your way around GOV.UK](https://gds.blog.gov.uk/2012/10/09/finding-your-way-around-gov-uk/)
-* "The best interaction and information design is stuff that can be glanced-at." [lever and useful design patterns](https://designnotes.blog.gov.uk/2014/11/06/spotted-clever-and-useful-design-patterns/)
+* "The best interaction and information design is stuff that can be glanced-at." [Clever and useful design patterns](https://designnotes.blog.gov.uk/2014/11/06/spotted-clever-and-useful-design-patterns/)
 
 ## That's it
 
