@@ -16,7 +16,7 @@ This year, I was helped by these two recipes: [Orangettes from Serious Eats](htt
 - 1.5 to 3 tsp Angostura bitters, to taste
 - dark or white chocolate 
 
-## How to make em
+## How to make them
 
 1. **Slice the oranges**. They need to be pretty thin, so that the peel gets cooked enough to make it not bitter. But too thin will mean they'll collapse while cooking. 5mm, perhaps.
 2. **Blanch the orange slices in water**. *Most of the recipes have a complicated boil-chill-boil cycle that seems tedious. I tried that, and also boiling for 2 minutes then cooling. Both ways came out fine, so I'd go for the latter.* Boil a large pan of water, and put the orange slices in it for 2 minutes, then cool them by running them in cold water. You'll need to boil the slices in batches, and make sure the water stays on the boil.
