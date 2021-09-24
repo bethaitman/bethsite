@@ -9,6 +9,9 @@ type: docs
 * **Senior technical writer | Google, Zürich**
 <br> *Aug 2019 - now*
 <br> Helping Site Reliability Engineers get stuff done.
+* **Newsletter editor | Write the Docs**
+<br> *Oct 2018 - now*
+<br> Putting together WTD's [monthly newsletter](https://www.writethedocs.org/blog/archive/tag/newsletter/).
 * **Technical writing and documentation lead | Digital Asset, Zürich**
 <br>*Sep 2018 - Jul 2019*
 <br> Working out how to teach people Haskell.
