@@ -8,8 +8,8 @@ type: docs
 
 ### Product management
 
-* **Product manager | Google, Zürich**
-<br> *Apr 2022 - now*
+* **Product manager | Google, Zürich** \
+<br> *Apr 2022 - now* \
 <br> Making Google's internal deployment system more usable and easier to debug.
 
 ### Tech writing
