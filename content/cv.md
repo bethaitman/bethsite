@@ -6,11 +6,19 @@ type: docs
 
 ## Jobs
 
+### Product management
+
+* **Product manager | Google, Zürich**
+<br> *Apr 2022 - now*
+<br> Making Google's internal deployment system more usable and easier to debug.
+
+### Tech writing
+
 * **Senior technical writer | Google, Zürich**
-<br> *Aug 2019 - now*
+<br> *Aug 2019 - Apr 2022*
 <br> Helping Site Reliability Engineers get stuff done.
 * **Newsletter editor | Write the Docs**
-<br> *Oct 2018 - now*
+<br> *Oct 2018 - Apr 2022*
 <br> Putting together WTD's [monthly newsletter](https://www.writethedocs.org/blog/archive/tag/newsletter/).
 * **Technical writing and documentation lead | Digital Asset, Zürich**
 <br>*Sep 2018 - Jul 2019*
