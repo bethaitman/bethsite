@@ -1,7 +1,7 @@
 # baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Beth Aitman"
-theme = ["my-theme-edits", "book"]
+theme = ["my-theme-edits", "hugo-book"]
 
 [params]
 # Configure the date format used in git information and  blog posts
