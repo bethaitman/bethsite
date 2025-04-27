@@ -4,5 +4,7 @@ title = "Beth Aitman"
 theme = ["hugo-book"]
 
 [params]
+# Set the directory for stuff that appears in the ToC
+BookSection = 'pages'
 # Configure the date format used in git information and  blog posts
 BookDateFormat = 'Jan 2006'
