@@ -11,7 +11,7 @@ Because a chatbot’s UI is conversational, people building them want their bots
 
 And that’s a problem for bots. Most of them have a very limited range of what input they can understand, and aren’t very tolerant of variation:
 
-{{< tweet 720702664552480768 >}}
+{{< x user="benedictevans" id="720702664552480768" >}}
 
 It turns out the secret is to say “unusubscribe”, but nothing else. That’s a discoverability problem. The great advantage of a graphical (rather than conversational) user interface is that users can see what’s possible. To replicate this with a bot, you would need a list of options - sort of like a call centre. “Press 1 for today’s forecast, 2 for tomorrow’s, or press 3 to unsubscribe.”
 
