@@ -5,6 +5,12 @@
       <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
     </h2>
     <b>{{ .Date | time.Format "Jan 2006" }}</b>
+    <div class="book-post-content">
+      {{- .Summary -}}
+      {{ if .Truncated }}
+        <a href="{{ .RelPermalink }}">...</a>
+      {{ end }}
+    </div>
   </article>
   {{ end }}
 
