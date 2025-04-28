@@ -10,15 +10,15 @@ theme = ["hugo-book"]
 BookDateFormat = 'Jan 2006'
 
 [menu]
-  [[menu.main]]
+  [[menu.thing]]
     name = 'CV'
     pageRef = '/pages/cv'
     weight = 10
-  [[menu.main]]
+  [[menu.thing]]
     name = 'Speaking'
     pageRef = '/pages/talks'
     weight = 20
-  [[menu.main]]
+  [[menu.thing]]
     name = 'Writing'
     pageRef = '/posts'
     weight = 30
