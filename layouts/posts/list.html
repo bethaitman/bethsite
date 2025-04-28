@@ -4,7 +4,7 @@
     <h2>
       <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
     </h2>
-    {{ partial "docs/post-meta" . }}
+    <b>{{ .Date | time.Format "Oct 2023" }}</b>
   </article>
   {{ end }}
 
