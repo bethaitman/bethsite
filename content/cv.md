@@ -1,8 +1,8 @@
 ---
-title: "Curriculum vitae"
+title: "CV"
 type: docs
 ---
-# CV
+# Curriculum vitae
 
 ## Jobs
 
