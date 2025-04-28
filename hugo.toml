@@ -12,11 +12,11 @@ BookDateFormat = 'Jan 2006'
 [menu]
   [[menu.after]]
     name = 'CV'
-    pageRef = '/pages/cv'
+    pageRef = '/cv'
     weight = 10
   [[menu.after]]
     name = 'Speaking'
-    pageRef = '/pages/talks'
+    pageRef = '/talks'
     weight = 20
   [[menu.after]]
     name = 'Writing'
