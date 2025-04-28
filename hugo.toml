@@ -8,3 +8,17 @@ theme = ["hugo-book"]
 BookSection = 'pages'
 # Configure the date format used in git information and  blog posts
 BookDateFormat = 'Jan 2006'
+
+[menus]
+  [[menus.main]]
+    name = 'CV'
+    pageRef = '/pages/cv'
+    weight = 10
+  [[menus.main]]
+    name = 'Speaking'
+    pageRef = '/pages/talks'
+    weight = 20
+  [[menus.main]]
+    name = 'Writing'
+    pageRef = '/posts'
+    weight = 30
