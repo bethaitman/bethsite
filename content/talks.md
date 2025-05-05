@@ -11,8 +11,14 @@ None planned.
 
 ## Past talks
 
-- **Why is Swiss public transport so good?** ([slides](https://drive.google.com/file/d/1Qv9up5Iq8Ov1nv0rQNSbhKY7iJ8qMoHE/view?usp=sharing))  
-Feb 2024
+- **Computers and Happiness (aka Algorithms to Live By)**
+([slides](https://drive.google.com/file/d/1Qv9up5Iq8Ov1nv0rQNSbhKY7iJ8qMoHE/view?usp=sharing](https://docs.google.com/presentation/d/1iAl2lwvNQhxJoGz8IRO8Cl9o_O2RXKvtt_6N_c6O9K4/edit?usp=sharing)))  
+[Coffeehouse Conference](https://www.coffeehouseconf.com/), Oct 2024
+- **Why is Swiss public transport so good?**
+([slides](https://drive.google.com/file/d/1Qv9up5Iq8Ov1nv0rQNSbhKY7iJ8qMoHE/view?usp=sharing))  
+Wine and Talks, Feb 2024
+- **MMO design and building remote teams**  
+Dec 2020
 - **Writing effective documentation** ([video](https://www.youtube.com/watch?v=R6zeikbTgVc))  
 [The Lead Developer Berlin](https://berlin2019.theleaddeveloper.com/talks#beth-aitman), Dec 2019
 - **A practical guide to writing good documentation**
@@ -21,6 +27,9 @@ Feb 2024
 [ZuriHac](https://zfoh.ch/zurihac2019/#docs-track), Jun 2019   
 [Rust Zurich](https://www.meetup.com/Rust-Zurich/events/257893384/), Feb 2019   
 [HaskellerZ](https://www.meetup.com/HaskellerZ/events/256301621/), Dec 2018
+- **Cryptic crosswords in five minutes**
+([slides](https://docs.google.com/presentation/d/1fbPjBTSgPSNAf1MrF0TTo8Gb3-3PRQpLZbxYR_X1qUw/edit?usp=sharing))  
+[Write the Docs Prague](https://www.writethedocs.org/conf/prague/2018/), Sep 2018
 - **Career progression for tech writers**
 ([slides](https://www.slideshare.net/BethAitman/models-for-personal-growth-career-progression-for-tech-writers))  
 [Write the Docs London meetup](https://www.meetup.com/Write-The-Docs-London/events/248304896/), Jun 2018
@@ -34,7 +43,7 @@ Feb 2024
 ([video](https://www.youtube.com/watch?v=rWtotqW_ZXE),
 [slides](https://www.slideshare.net/BethAitman/supporting-non-writers-to-write-effective-content-86918032))  
 [Agile Content Conference](https://agilecontentconf.com/), Jan 2018
-- **Finding the right thing: lessons from working at a startup**
+- **Finding the right work: lessons from working at a startup**
 ([slides](https://www.slideshare.net/BethAitman/finding-the-right-work-to-do-lessons-learnt-from-a-year-at-a-startup))  
 [UA Europe](http://www.uaconference.eu/conf2017.html#aitman), Jun 2017
 - **Workshop: content and compromise**  
