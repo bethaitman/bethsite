@@ -11,7 +11,7 @@ None planned.
 
 ## Past talks
 
-- **Computers and Happiness (aka Algorithms to Live By)**
+- **Computers and Happiness, or Algorithms to Live By**
 ([slides](https://drive.google.com/file/d/1Qv9up5Iq8Ov1nv0rQNSbhKY7iJ8qMoHE/view?usp=sharing](https://docs.google.com/presentation/d/1iAl2lwvNQhxJoGz8IRO8Cl9o_O2RXKvtt_6N_c6O9K4/edit?usp=sharing)))  
 [Coffeehouse Conference](https://www.coffeehouseconf.com/), Oct 2024
 - **Why is Swiss public transport so good?**
@@ -50,7 +50,7 @@ Dec 2020
 [The Content Lab](https://www.meetup.com/The-Lab-London/events/235414514/), Nov 2016
 - **Writing for user interfaces**
 ([slides](https://www.slideshare.net/BethAitman/writing-for-better-user-interfaces))  
-Home Office Digital learning lunch, Oct 2018 <br>
+Home Office Digital learning lunch, Oct 2018  
 [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) learning lunch, Dec 2017 + Aug 2016  
 [Cambridge Tech Talks](https://techtalks.event.cam.ac.uk/talks#bethaitman), Nov 2015
 - **Real-time database change monitoring**  
