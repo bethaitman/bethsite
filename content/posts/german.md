@@ -47,15 +47,15 @@ Not all practice is useful. Just repeating something doesn't mean you'll get bet
 
 Deliberate practice has been game-changing for me, and I wanted to share a few examples of how I've applied the ideas above.
 
-### The early days: I don't know any words
+### The early days
 
-When I moved to Switzerland, I barely knew a word of German. And in those early days that was my biggest limitation: I just simply had no idea what speech or text was saying. I needed words.
+**I don't know any words:** When I moved to Switzerland, I barely knew a word of German. And in those early days that was my biggest limitation: I just simply had no idea what speech or text was saying. I needed words.
 
 **What I did:** German flashcards, using [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition). It was incredibly boring, but it unlocked the first level of comprehension for me. I also noticed that it combined really well when I was getting more exposure to spoken and written German: if I noticed a word from a flashcard in some text, it stuck much better in my head.
 
-### Being in the world: I don't understand when people speak to me
+### Being in the world
 
-The flashcards helped a lot with reading text, but it wasn't actually helping me understand what others were saying. In hindsight, this wasn't a surprise. My practice was focused on reading and recognising text, without any aural input. 
+**I don't understand when people speak to me:** The flashcards helped a lot with reading text, but it wasn't actually helping me understand what others were saying. In hindsight, this wasn't a surprise. My practice was focused on reading and recognising text, without any aural input. 
 
 **What I did:** listening to podcasts. [Echo Der Zeit](https://www.srf.ch/audio/echo-der-zeit) is a great news show and they articulate beautifully clearly; [Beziehungskosmos](https://www.beziehungskosmos.com/) is a show about relationships and psychology, and helped me a lot with Swiss German.
 
@@ -67,21 +67,21 @@ Importantly, this needs to be active listening. German is hard for me to take in
 
 **What didn't work:** Passive listening got me nowhere. I also needed this to be 'real' material. Initially I tried listening to language specifically for learners, like "Easy German". I quickly realised that this wasn't going to help, because I wanted to be able to understand real spoken German, not something slowly and carefully constructed for beginners.
 
-### Written material: I can't skim-read, and get stuck
+### Holding conversations
 
-I give up quite quickly when reading long German texts, and I think this is something I can train.
-
-**What I did:** I now get a daily newsletter about news and events in Zürich ([tsri.ch](https://tsri.ch/)), and I try to read this every morning when I pick up my phone. Right now I'm focusing on noticiing unfamiliar words or forms and trying to guess their meaning, _before_ I look things up. That's because I want to be able to get through life without constantly referencing dictionaries or running text through Google translate.
-
-### Holding conversations: I'm lost for words
-
-By about 2022 I had a decent grounding in German grammar and vocabulary, and my comprehension was okay, but I hated speaking - I was very self-conscious about sounding stupid and making mistakes.
+**I'm lost for words:** By about 2022 I had a decent grounding in German grammar and vocabulary, and my comprehension was okay, but I hated speaking - I was very self-conscious about sounding stupid and making mistakes.
 
 **What I did:** 1 on 1 conversation lessons with a recommended tutor. We'd go for a walk and talk for an hour week, just about stuff that interested me: politics, philosophy, art, psychology. He would rarely correct me when talking, but he'd take notes, and at the end of the lesson would let me know what areas I should look into, where I was making frequent mistakes. This means I could get better, but I wasn't interrupted while I was getting into the habit of speaking even if I wasn't getting it right.
 
-### Texting and emailing: I don't know what's idiomatic
+### Written material
 
-Now, in 2025, my German is... kind of okay, a solid B2 level. I can hold conversations, deal with most situations in life, I know all the basic grammar. But I know that my speaking is weird: I know lots of words, but I often don't use them right, or I say things a German person would never say. I use a lot of phrases that are just direct translations from English, like "Ich bin interessiert in Politik" rather than "Ich interessiere mich für Politik". In a professional context I think things like this will seem very silly.
+**I can't skim-read, and get stuck:** I give up quite quickly when reading long German texts, it's still very effortful.
+
+**What I did:** I now get a daily newsletter about news and events in Zürich ([tsri.ch](https://tsri.ch/)), and I try to read this every morning when I pick up my phone. Right now I'm focusing on noticiing unfamiliar words or forms and trying to guess their meaning, _before_ I look things up. That's because I want to be able to get through life without constantly referencing dictionaries or running text through Google Translate.
+
+### Texting and emailing
+
+**I don't know what's idiomatic:** Now, in 2025, my German is... kind of okay, a solid B2 level. I can hold conversations, deal with most situations in life, I know all the basic grammar. But I know that my speaking is weird: I know lots of words, but I often don't use them right, or I say things a German person would never say. I use a lot of phrases that are just direct translations from English, like "Ich bin interessiert in Politik" rather than "Ich interessiere mich für Politik". In a professional context I think things like this will seem very silly.
 
 **What I did:** LLMs have been great here. Whenever I write something in German, I'll compose it myself first, then ask ChatGPT to correct it. Specifically I ask for 1) grammatical correction, 2) things that are not idiomatic, and 3) more natural ways to express the same ideas. Early days but I think it's helping.
 
