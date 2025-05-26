@@ -1,6 +1,7 @@
 ---
 title: "Google Drive's user-centered naming"
 date: 2015-09-03
+tags: ["ui writing"]
 ---
 
 I like Google Drive, and use it pretty much every day. I’ve found it fairly simple, pared-back, and convenient. 
