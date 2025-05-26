@@ -1,6 +1,7 @@
 ---
 title: "Are you sure? How to write a confirmation dialog"
 date: 2016-01-29
+tags: ["ui writing"]
 ---
 
 I came across a few terrible confirmation dialogs/“Are you sure” messages recently, like this one:
