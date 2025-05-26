@@ -1,9 +1,10 @@
 ---
 title: "Npower's poor customer communications"
 date: 2016-02-24
+tags: ["tech writing"]
 ---
 
-It shouldn’t be a surprise that [npower](https://www.npower.com/)’s customer service is terrible. After all, it consistently gets the lowest customer satisfaction ratings of any UK energy company. 
+It shouldn’t be a surprise that [npower](https://www.npower.com/)’s customer service is bad. After all, it consistently gets the lowest customer satisfaction ratings of any UK energy company. 
 
 But as I’ve just been on the receiving end of their service, I thought I’d share the experience, because their communication is incredibly poor.
 
