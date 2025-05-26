@@ -1,6 +1,7 @@
 ---
 title: "A note about Non-Violent Communication"
 date: 2025-04-27
+tags: ["books"]
 ---
 
 I read [Non-Violent Communication (NVC)](https://www.goodreads.com/book/show/71730.Nonviolent_Communication) after a difficult conversation with a friend last year. I was trying to explain why I didn't want to go on trips with her any more, and in doing so I upset her. She suggested that I read NVC to be a bit more sensitive in the future, so I did. I found parts of it useful, and parts of it overblown.
