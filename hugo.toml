@@ -23,3 +23,6 @@ BookDateFormat = 'Jan 2006'
     name = 'Writing'
     pageRef = '/posts'
     weight = 30
+
+[taxonomies]
+  tag = 'tags'
