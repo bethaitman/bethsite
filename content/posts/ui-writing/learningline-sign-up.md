@@ -1,6 +1,7 @@
 ---
 title: "LearningLine's sign-up page"
 date: 2015-02-17
+tags: ["ui writing"]
 ---
 
 The sign-up form for LearningLine, an online learning platform.
