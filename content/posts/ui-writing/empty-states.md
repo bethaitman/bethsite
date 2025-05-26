@@ -1,6 +1,7 @@
 ---
 title: "Don’t forget about empty states"
 date: 2016-05-04
+tags: ["ui writing"]
 ---
 
 Today’s post prompted by this helpful piece of copy from Fitbit:
