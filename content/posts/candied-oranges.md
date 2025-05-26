@@ -1,6 +1,7 @@
 ---
 title: "A recipe for candied oranges"
 date: 2019-12-09
+tags: ["ui-writing"]
 ---
 
 This has nothing to do with writing.
