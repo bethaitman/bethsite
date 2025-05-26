@@ -1,7 +1,12 @@
 ---
 title: "Skype for Business: part 1"
 date: 2015-07-05
+tags: ["ui writing"]
 ---
+
+At work I used Lync, Microsoft’s instant messenger, until it upgraded itself to Skype for Business yesterday. Not only is the introduction terribly overwritten, but the online content is dreadful too. So this is the first in a series of blog post about what Skype and Skype for Business are doing wrong.
+
+To start it off, I want to point out the complexity of the introductory tour. 7 is way too many things to go through - nobody’s going to remember all of them.
 
 {{< figure src="/images/skype/1-start.png" alt="Skype for Business. 7 quick tips most people ask for" class="image-with-border" >}}
 
@@ -9,9 +14,7 @@ date: 2015-07-05
 
 {{< figure src="/images/skype/6-video.png" alt="Add the personal touch with a video call. Click the Video button while in an IM or call (or even from the Contacts list). We'll give you a preview so you know you'll look your best" class="image-with-border" >}}
 
-At work I used Lync, Microsoft’s instant messenger, until it upgraded itself to Skype for Business yesterday. Not only is the introduction terribly overwritten, but the online content is dreadful too. So this is the first in a series of blog post about what Skype and Skype for Business are doing wrong.
-
-To start it off, I want to point out the complexity of the introductory tour. 7 is way too many things to go through - nobody’s going to remember all of them. And almost all of the text is overdone (I’ll go into more detail about this later). They could say the same thing, much more effectively and simply, and without that horrible pally voice they’re using so badly. 
+Almost all of the text is overdone (I’ll go into more detail about this later). They could say the same thing, much more effectively and simply, and without that pally voice they’re using. 
 
 It’s interesting to compare these to the Inbox introductory tour, because one of the things that stands out is the difference in complexity of the UI. Inbox’s tour is obviously much more pared-down, partially because the app’s already simple. The number of things it covers is smaller, and it describes them in a simpler way.
 
