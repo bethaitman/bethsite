@@ -1,6 +1,7 @@
 ---
 title: "Working with other people’s error messages"
 date: 2015-08-20
+tags: ["ui writing"]
 ---
 
 In my last team, we worked on a piece of software that could send you email notifications, but you needed to use your own SMTP server.
