@@ -25,4 +25,4 @@ BookDateFormat = 'Jan 2006'
     weight = 30
 
 [taxonomies]
-  tag = 'tags'
+  tag = ['books', 'conferences', 'ui writing', 'tech writing', 'misc interests']
