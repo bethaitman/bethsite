@@ -1,6 +1,7 @@
 ---
 title: "A nice piece of help for Instagram Stories"
 date: 2018-04-10
+tags: ["ui writing"]
 ---
 
 I came across this the other day when looking at *Stories* on Instagram ([photos that play like a slideshow, and disappear after 24 hours](https://www.cnet.com/how-to/how-to-use-instagram-stories/)). Stories take up the whole of your screen, and don’t have any obvious controls, so it can be a bit hard to work out what you can do, apart from sit there and watch the photos progress.
