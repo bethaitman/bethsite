@@ -1,6 +1,7 @@
 ---
 title: "A flight for Mr Seat Cello"
 date: 2015-09-19
+tags: ["ui writing"]
 ---
 
 This week I came across the hilarious page that is [EasyJet’s policy for carrying musical instruments on board](https://www.easyjet.com/en/terms-and-conditions/music-instruments):
