@@ -1,13 +1,14 @@
 ---
 title: "Skype for Business: part 2"
 date: 2015-07-20
+tags: ["ui writing"]
 ---
-
-{{< figure src="/images/skype/1-start.png" alt="Skype for Business. 7 quick tips most people ask for" class="image-with-border" >}}
 
 Post #2 about Skype for Business. In this post, I’m going through the writing of the introductory tour in detail. 
 
 As I’ve said before, 7 topics is far too many: it’s too much for people to hold in their mind. I think the reason there are so many (related to that slightly odd “tips most people ask for”) is the classic Microsoft problem of providing a lot of features, but making them so hard to find that nobody knows they exist.
+
+{{< figure src="/images/skype/1-start.png" alt="Skype for Business. 7 quick tips most people ask for" class="image-with-border" >}}
 
 I’m not keen on the phrasing of the subtitle, mostly because it doesn’t describe very well what this is. It’s more “Let’s see what you can do with Skype for Business”: an introduction to the features.
 

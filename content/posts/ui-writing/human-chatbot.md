@@ -1,6 +1,7 @@
 ---
 title: "How human do you want your chatbot to be?"
 date: 2016-06-10
+tags: ["ui writing"]
 ---
 
 <!-- https://uiwriting.tumblr.com/post/145703370514/how-human-do-you-want-your-chatbot-to-be -->

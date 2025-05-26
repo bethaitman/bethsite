@@ -1,15 +1,16 @@
 ---
 title: "ISTC's 404 page"
 date: 2015-03-05
+tags: ["ui writing"]
 ---
 
-This is the 404 page on the ISTC website, Yes, they’re a technical writing organisation.
+This is the 404 page on the ISTC website, a technical writing organisation.
 
 {{< figure src="/images/istc/before.png" alt="Error 404 - Page Not Found. Sorry, something has gone awry! We realise this might be a stressful event, so here is a picture of some lovely kittens to help you through this traumatic time." class="image-with-border" >}}
 
 ## What’s wrong here
 
-They’re trying a bit too hard to be friendly, and they’re not used to it. You can tell there’s a background of writing formally from a few telltale phrases: 
+They’re trying a bit too hard to be friendly, and it doesn't quite fit their tone. You can tell there’s a background of writing formally from a few telltale phrases: 
 
 - “something has gone awry” rather than “something’s gone wrong” 
 <br>(no contraction and a formal/archaic word choice)

@@ -1,6 +1,7 @@
 ---
 title: "Log in? Sign in? Sign up? … Log up?"
 date: 2015-09-17
+tags: ["ui writing"]
 ---
 
 There’s been some discussion at Redgate Towers this week about what we should call the action of getting access to your account. Our style guide, at the moment, says “Log in”, but one of our UX designers thinks “Sign in” is friendlier. 

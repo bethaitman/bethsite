@@ -1,6 +1,7 @@
 ---
 title: "Information design for a Slack bot"
 date: 2018-04-11
+tags: ["ui writing"]
 ---
 
 One of our developers was trying to make it easier for our colleagues to keep updated on a [pull request (PR)](https://help.github.com/en/articles/about-pull-requests)'s status, after they’ve reviewed it. This developer was building a Slack bot to do this. I offered to help - it seemed like an interesting information design problem.

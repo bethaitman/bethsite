@@ -1,6 +1,7 @@
 ---
 title: "Azure's inconsistent messages"
 date: 2015-08-18
+tags: ["ui writing"]
 ---
 
 Some UI writing from Microsoft’s Azure platform:

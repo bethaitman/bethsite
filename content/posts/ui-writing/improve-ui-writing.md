@@ -1,6 +1,7 @@
 ---
 title: "4 practical things you can do to improve the writing in your UI"
 date: 2015-09-04
+tags: ["ui writing", "conferences"]
 ---
 
 I gave a talk at Write the Docs this week, about how to write well for user interfaces. The video of it should be up soon - I’ll share it as soon as it gets posted. *(Edit - video is now [here](https://www.youtube.com/watch?v=LemM9PHDX6w&t=3s)!)*

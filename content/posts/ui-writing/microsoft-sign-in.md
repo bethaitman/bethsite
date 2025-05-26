@@ -1,6 +1,7 @@
 ---
 title: "Microsoft's sign-in page"
 date: 2015-03-17
+tags: ["ui writing"]
 ---
 
 This is a Microsoft sign in page. Yeah.
@@ -15,7 +16,7 @@ Worst of all, this page doesn’t tell you what’s supposed to go in the field.
 
 ## The fix
 
-Get rid of the over-intimate “Call us overprotective”, and add some actual information on what you have to enter. 
+Instead of the over-intimate “Call us overprotective”, add some actual information on what you have to enter. 
 
 <!-- https://uiwriting.tumblr.com/post/113881696779/this-is-a-microsoft-sign-in-page-oh-dear -->
 

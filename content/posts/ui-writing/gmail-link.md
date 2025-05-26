@@ -1,6 +1,7 @@
 ---
 title: "Gmail's link dialog"
 date: 2015-03-17
+tags: ["ui writing"]
 ---
 
 If you add a link in Gmail, you get this dialog:

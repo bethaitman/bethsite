@@ -1,6 +1,7 @@
 ---
 title: "Google Drive's 502 error"
 date: 2015-03-13
+tags: ["ui writing"]
 ---
 
 Google Drive’s 502 error page.

@@ -1,20 +1,24 @@
 ---
 title: "A beginner's guide to cryptic crosswords"
 date: 2019-12-09
-draft: "true"
+tags: ["misc interests"]
 ---
 
 In my first job out of university, a little group used to gather in the office atrium at 5pm - almost every day without fail - to solve the Guardian cryptic crossword. I think when I started it was just those titans of crossword-solving, Brian Harris and Charles Brown; with Chris Lambrou a later guest star, making us the BBCC crossword club (Brian, Beth, Charles, and Chris). Plus occasionally Jason for comic relief.
 
 I don't exactly remember how I managed to join in, but it became a mainstay of my time at Redgate. The club had many, unbreakable rules. Tell us the number of the clue before you talk about solving it. If we had to print out the crossword, it was always the PDF version, never the print one. Mondays were far too easy for Brian and Charles, so on Mondays we had to attempt all of the across clues first. If we managed that, we had to fill in the down answers without looking at the clues. Only if we were really, totally stuck, did we give in and look at [Fifteensquared](https://www.fifteensquared.net/).
 
-I was the slowest at solving, so I was usually the scribe. After it emerged that I didn't know what Cockney rhyming slang was, Brian used to joke that any clue I wasn't sure about would be rhyming slang; an unreasonable number of times, it turned out to be so.
+I was the slowest at solving, so I was usually the scribe. After it emerged that I didn't know what Cockney rhyming slang was, Brian used to joke that any clue I wasn't sure about would be rhyming slang; an unreasonable number of times, it turned out to be so. 
+
+It was a ton of fun, and cryptic crosswords are still a favourite pastime of mine. I almost never try them alone - it's a social thing for me.
+
+## What is a cryptic crossword?
 
 How to explain British cryptic crosswords? A "normal" crossword has a series of clues, which are just a synonym for the answer you're looking for, and a set of slots in a grid to fill in the answer, so you know how many letters long the answer is.
 
 A cryptic crossword works the same way, except the clue is almost never a simple synonym. Cryptic clues (usually) have two parts: the "straight", which is a bit like a normal clue - it's a synonym for the answer, though sometimes a weird one. For example, "flower" might clue for "Thames" - that is, something that flows. Then, the rest of the clue is another way of constructing the sam answer.
 
-One of the hard parts of solving a cryptic clue is working out which bit is which. The straight is almost always at the start or the end of the clue, unless there's a clear indicator for it being somewhere else. If the setter is good, you can read the clue and it roughly makes sense - they're less elegant if they just read like nonsense. They ought often to be funny - eg "
+One of the hard parts of solving a cryptic clue is working out which bit is which. The straight is almost always at the start or the end of the clue, unless there's a clear indicator for it being somewhere else. If the setter is good, you can read the clue and it roughly makes sense - they're less elegant if they just read like nonsense. They ought often to be funny or witty.
 
 Let's take an example.
 
@@ -22,9 +26,11 @@ Let's take an example.
 
 Gives us CHORUS: CH [Confederation Helvetica] + OR + US [United States].
 
-Patterns you might see in clues, all from [this Vulcan](https://www.theguardian.com/crosswords/cryptic/28076):
+## Patterns you might see in clues
 
-* Simple clues: "Even heavy metal is smoother (4,4)", "Persist as Welsh symbol"
+All from [this Vulcan](https://www.theguardian.com/crosswords/cryptic/28076):
+
+* Simple clues: "Even heavy metal is smoother (4,4)"
 * Homophone: "Said to have cut exam for this kind of thesis? (8)"
 * Anagram: "Finding out alternative to large inn (8)", "He sits composing dissertation (6)"
 * Double definition: "Divides accommodation (8)"
@@ -41,11 +47,14 @@ Patterns you might see in clues, all from [this Vulcan](https://www.theguardian.
 
 Sometimes, the clue doesn't have a straight and construction section:
 
-* &lit:
+* &lit: (I need to find a good example)
 * Cryptic definition: "One was impressed by an old typewriter (6,4)"
 
-About setters. How it gets harder through the week, then easier from Friday onwards.
+## Setters
 
+There are different 'setters' who write the crossword. They get harder through the week - so Monday is the easiest. Friday is a bit more relaxed, Saturday is the "prize" crossword which means it can be tricky, and Sunday is an accessible "Everyman" crossword that can be good for beginners.
+
+## Some other fun clues
 
 * BRIC-A-BRAC:	Endless enthusiasm taxi drivers put into various items (4-1-4). BRI[o]=”enthusiasm” without its end letter; CAB=”taxi” and RAC (Royal Automobile Club)=”drivers”
 * NOLI ME TANGERE:	No citrus flavour before with balsam? Leave well alone! (4,2,7). Definition: a Latin phrase [wiki] meaning ‘Touch me not’, which is the name of a balsam plant [wiki]. NO LIME TANG ERE=”No citrus flavour before”

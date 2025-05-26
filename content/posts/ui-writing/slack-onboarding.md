@@ -1,6 +1,7 @@
 ---
 title: "Slack's onboarding"
 date: 2015-03-17
+tags: ["ui writing"]
 ---
 
 I’ve been looking at [UserOnboard.com](https://www.useronboard.com/user-onboarding-teardowns/) to get some ideas for welcome pages, and came across this in the Slack onboarding process.

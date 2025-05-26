@@ -1,6 +1,7 @@
 ---
 title: "Too many help widgets"
 date: 2015-08-21
+tags: ["ui writing"]
 ---
 
 Just a quick one today, from ApexSQL Refactor:

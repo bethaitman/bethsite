@@ -1,6 +1,7 @@
 ---
 title: "404 pages, good and bad"
 date: 2015-09-03
+tags: ["ui writing"]
 ---
 
 We’ve talked 404 pages before - let’s look at some more! These examples are on a political theme (although slightly out of date, as the election’s been and gone), thanks to Mashable.
