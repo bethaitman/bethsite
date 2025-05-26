@@ -1,6 +1,7 @@
 ---
 title: "Bad writing and anti-patterns on the Royal Mail site"
 date: 2015-09-10
+tags: ["ui writing"]
 ---
 
 It’s a familiar part of signing up for a website or service: opting out of any marketing emails.
