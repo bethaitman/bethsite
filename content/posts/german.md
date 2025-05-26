@@ -1,6 +1,7 @@
 ---
 title: "Language learning and deliberate practice"
 date: 2025-05-25
+tags: ["misc interests"]
 ---
 
 ## The difficulty of language learning
