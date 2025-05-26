@@ -24,5 +24,3 @@ BookDateFormat = 'Jan 2006'
     pageRef = '/posts'
     weight = 30
 
-[taxonomies]
-  tag = ['books', 'conferences', 'ui writing', 'tech writing', 'misc interests']
