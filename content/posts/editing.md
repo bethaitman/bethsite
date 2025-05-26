@@ -1,6 +1,7 @@
 ---
 title: "Editing"
 date: 2019-11-10
+tags: ["tech writing"]
 ---
 
 I wanted to write about some of the things I look for when I'm editing. There are a bunch of simple ways to make your writing more readable - and I'm usually thinking about technical documentation, but this can apply to emails and other stuff too.
