@@ -9,9 +9,10 @@ type: docs
 ### Product management
 
 * **Product manager: cybersecurity | Google, Zürich**  
-<br> *Oct 2025 - now*  
+<br> *Oct 2025 - now*
+<br> Detecting threats against the company.
 * **Product manager: rollouts | Google, Zürich**  
-<br> *Apr 2022 - Sep 2025 (3y)*  
+<br> *Apr 2022 - Sep 2025 (3.5y)*  
 <br> Making Google's internal deployment system more usable and easier to debug.
 
 ### Tech writing
